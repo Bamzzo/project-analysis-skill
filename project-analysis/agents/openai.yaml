@@ -1,0 +1,4 @@
+interface:
+  display_name: "Project Analysis"
+  short_description: "Analyze repositories into flows, risks, and next actions."
+  default_prompt: "Use $project-analysis to analyze this repository and produce an evidence-backed architecture map, verification plan, risks, and recommended next actions."
